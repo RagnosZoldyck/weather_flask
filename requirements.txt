@@ -1,0 +1,4 @@
+Flask==2.3.2
+requests==2.31.0
+gunicorn==21.2.0  # Optional: If deploying with Gunicorn
+python-dotenv==1.0.0  # Optional: For environment variable management
